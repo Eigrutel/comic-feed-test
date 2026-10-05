@@ -66,7 +66,8 @@
               "type": "image",
               "src": "channels/strip/media/aube-002.webp"
             }
-          ]
+          ],
+          "url": "channels/strip/read/aube-002.html"
         },
         {
           "id": "itm_d42d7aa9-4f1e-450e-8aae-8171a7e4c4be",
@@ -80,7 +81,8 @@
               "type": "image",
               "src": "channels/strip/media/aube-003.webp"
             }
-          ]
+          ],
+          "url": "channels/strip/read/aube-003.html"
         },
         {
           "id": "itm_1307b0b8-86ca-4561-9c9b-96f047ecf5dd",
@@ -94,7 +96,8 @@
               "type": "image",
               "src": "channels/strip/media/aube-004.webp"
             }
-          ]
+          ],
+          "url": "channels/strip/read/aube-004.html"
         },
         {
           "id": "itm_c0fb5faf-a248-4b02-9d78-7effd38c4418",

@@ -27,14 +27,14 @@
     "id": "pub_d628cd5f-9064-4958-be04-9977f72d4181",
     "feed": "../../feed.json"
   },
-  "updated_at": "2026-10-05T10:00:00Z",
+  "updated_at": "2026-10-05T15:30:00Z",
   "channels": [
     {
       "id": "chn_99b7a2ca-3b8b-4f21-b16f-744437493082",
       "type": "strip",
       "title": "strips",
       "language": "fr",
-      "updated_at": "2026-10-05T10:00:00Z",
+      "updated_at": "2026-10-05T15:30:00Z",
       "access": {
         "mode": "public"
       },
@@ -43,14 +43,56 @@
           "id": "itm_fc1a8cd0-d554-4d4e-87ae-e635cb81396c",
           "status": "published",
           "publish_at": "2026-10-01T10:00:00+02:00",
-          "updated_at": "2026-10-05T10:00:00Z",
+          "updated_at": "2026-10-05T15:30:00Z",
           "title": "Exemple aube-001",
-          "thumbnail": "channels/strip/thumbnails/aube-001.png",
+          "thumbnail": "channels/strip/thumbnails/aube-001.webp",
           "url": "channels/strip/read/aube-001.html",
           "resources": [
             {
               "type": "image",
-              "src": "channels/strip/media/aube-001-01.png"
+              "src": "channels/strip/media/aube-001.webp"
+            }
+          ]
+        },
+        {
+          "id": "itm_c36e719e-bd38-40b1-a3ec-5db4b8ec8157",
+          "status": "published",
+          "publish_at": "2026-10-02T10:00:00+02:00",
+          "updated_at": "2026-10-05T15:30:00Z",
+          "title": "Exemple aube-002",
+          "thumbnail": "channels/strip/thumbnails/aube-002.webp",
+          "resources": [
+            {
+              "type": "image",
+              "src": "channels/strip/media/aube-002.webp"
+            }
+          ]
+        },
+        {
+          "id": "itm_d42d7aa9-4f1e-450e-8aae-8171a7e4c4be",
+          "status": "published",
+          "publish_at": "2026-10-03T10:00:00+02:00",
+          "updated_at": "2026-10-05T15:30:00Z",
+          "title": "Exemple aube-003",
+          "thumbnail": "channels/strip/thumbnails/aube-003.webp",
+          "resources": [
+            {
+              "type": "image",
+              "src": "channels/strip/media/aube-003.webp"
+            }
+          ]
+        },
+        {
+          "id": "itm_1307b0b8-86ca-4561-9c9b-96f047ecf5dd",
+          "status": "published",
+          "publish_at": "2026-10-04T10:00:00+02:00",
+          "updated_at": "2026-10-05T15:30:00Z",
+          "title": "Exemple aube-004",
+          "thumbnail": "channels/strip/thumbnails/aube-004.webp",
+          "resources": [
+            {
+              "type": "image",
+              "src": "channels/strip/media/aube-004.webp"
             }
           ]
         },

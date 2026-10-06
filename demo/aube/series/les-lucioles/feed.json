@@ -27,7 +27,7 @@
     "id": "pub_d628cd5f-9064-4958-be04-9977f72d4181",
     "feed": "../../feed.json"
   },
-  "updated_at": "2026-10-05T15:30:00Z",
+  "updated_at": "2026-10-06T15:42:29Z",
   "channels": [
     {
       "id": "chn_99b7a2ca-3b8b-4f21-b16f-744437493082",
@@ -174,7 +174,7 @@
       "type": "webtoon",
       "title": "webtoons",
       "language": "fr",
-      "updated_at": "2026-10-05T10:00:00Z",
+      "updated_at": "2026-10-06T15:42:29Z",
       "access": {
         "mode": "public"
       },
@@ -183,9 +183,9 @@
           "id": "itm_515cd34e-884e-44d9-b2e2-08901073f43c",
           "status": "published",
           "publish_at": "2026-10-01T08:00:00Z",
-          "updated_at": "2026-10-05T10:00:00Z",
+          "updated_at": "2026-10-06T15:42:29Z",
           "title": "Exemple aube-episode-01",
-          "thumbnail": "channels/webtoon/thumbnails/aube-episode-01.png",
+          "thumbnail": "channels/webtoon/thumbnails/aube-episode-01-preview.png",
           "url": "channels/webtoon/read/aube-episode-01.html",
           "resources": [
             {
@@ -198,9 +198,9 @@
           "id": "itm_4909d52b-5a12-4d8b-8205-5e4fa14126b6",
           "status": "published",
           "publish_at": "2026-10-01T08:00:00Z",
-          "updated_at": "2026-10-05T10:00:00Z",
+          "updated_at": "2026-10-06T15:42:29Z",
           "title": "Exemple aube-episode-02",
-          "thumbnail": "channels/webtoon/thumbnails/aube-episode-02.png",
+          "thumbnail": "channels/webtoon/thumbnails/aube-episode-02-preview.png",
           "url": "channels/webtoon/read/aube-episode-02.html",
           "resources": [
             {

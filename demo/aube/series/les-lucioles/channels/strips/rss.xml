@@ -1,24 +1,52 @@
-<?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
-  <channel>
-    <title>Les Lucioles / strips</title>
-    <link>https://aube.example/bd/series/les-lucioles/channels/strips/index.html</link>
-    <description>Série fictive destinée à vérifier les échanges Comic Feed.</description>
-    <language>fr</language>
-    <lastBuildDate>Mon, 05 Oct 2026 10:00:00 GMT</lastBuildDate>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel>
+  <title>Les Lucioles — strips</title>
+  <link>https://eigrutel.github.io/comic-feed-test/demo/aube/series/les-lucioles/channels/strips/index.html</link>
+  <description>Publications publiques de Les Lucioles — strips</description>
+  <lastBuildDate>Tue, 06 Oct 2026 15:42:29 GMT</lastBuildDate>
     <item>
-      <guid isPermaLink="false">itm_fc1a8cd0-d554-4d4e-87ae-e635cb81396c</guid>
+      <title>Exemple aube-004</title>
+      <link>https://eigrutel.github.io/comic-feed-test/demo/aube/series/les-lucioles/channels/strip/read/aube-004.html</link>
+      <guid isPermaLink="false">itm_1307b0b8-86ca-4561-9c9b-96f047ecf5dd</guid>
+      <pubDate>Sun, 04 Oct 2026 08:00:00 GMT</pubDate>
+      <description>&lt;p&gt;&lt;a href=&quot;https://eigrutel.github.io/comic-feed-test/demo/aube/series/les-lucioles/channels/strip/read/aube-004.html&quot;&gt;&lt;img src=&quot;https://eigrutel.github.io/comic-feed-test/demo/aube/series/les-lucioles/channels/strip/media/aube-004.webp&quot; width=&quot;2259&quot; height=&quot;716&quot; alt=&quot;Exemple aube-004&quot;&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://eigrutel.github.io/comic-feed-test/demo/aube/series/les-lucioles/channels/strip/read/aube-004.html&quot;&gt;Lire Exemple aube-004&lt;/a&gt;&lt;/p&gt;</description>
+      <media:content url="https://eigrutel.github.io/comic-feed-test/demo/aube/series/les-lucioles/channels/strip/media/aube-004.webp" type="image/webp" medium="image" width="2259" height="716" />
+      <media:thumbnail url="https://eigrutel.github.io/comic-feed-test/demo/aube/series/les-lucioles/channels/strip/thumbnails/aube-004.webp" width="1182" height="374" />
+    </item>
+    <item>
+      <title>Exemple aube-003</title>
+      <link>https://eigrutel.github.io/comic-feed-test/demo/aube/series/les-lucioles/channels/strip/read/aube-003.html</link>
+      <guid isPermaLink="false">itm_d42d7aa9-4f1e-450e-8aae-8171a7e4c4be</guid>
+      <pubDate>Sat, 03 Oct 2026 08:00:00 GMT</pubDate>
+      <description>&lt;p&gt;&lt;a href=&quot;https://eigrutel.github.io/comic-feed-test/demo/aube/series/les-lucioles/channels/strip/read/aube-003.html&quot;&gt;&lt;img src=&quot;https://eigrutel.github.io/comic-feed-test/demo/aube/series/les-lucioles/channels/strip/media/aube-003.webp&quot; width=&quot;1733&quot; height=&quot;740&quot; alt=&quot;Exemple aube-003&quot;&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://eigrutel.github.io/comic-feed-test/demo/aube/series/les-lucioles/channels/strip/read/aube-003.html&quot;&gt;Lire Exemple aube-003&lt;/a&gt;&lt;/p&gt;</description>
+      <media:content url="https://eigrutel.github.io/comic-feed-test/demo/aube/series/les-lucioles/channels/strip/media/aube-003.webp" type="image/webp" medium="image" width="1733" height="740" />
+      <media:thumbnail url="https://eigrutel.github.io/comic-feed-test/demo/aube/series/les-lucioles/channels/strip/thumbnails/aube-003.webp" width="710" height="303" />
+    </item>
+    <item>
+      <title>Exemple aube-002</title>
+      <link>https://eigrutel.github.io/comic-feed-test/demo/aube/series/les-lucioles/channels/strip/read/aube-002.html</link>
+      <guid isPermaLink="false">itm_c36e719e-bd38-40b1-a3ec-5db4b8ec8157</guid>
+      <pubDate>Fri, 02 Oct 2026 08:00:00 GMT</pubDate>
+      <description>&lt;p&gt;&lt;a href=&quot;https://eigrutel.github.io/comic-feed-test/demo/aube/series/les-lucioles/channels/strip/read/aube-002.html&quot;&gt;&lt;img src=&quot;https://eigrutel.github.io/comic-feed-test/demo/aube/series/les-lucioles/channels/strip/media/aube-002.webp&quot; width=&quot;2167&quot; height=&quot;557&quot; alt=&quot;Exemple aube-002&quot;&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://eigrutel.github.io/comic-feed-test/demo/aube/series/les-lucioles/channels/strip/read/aube-002.html&quot;&gt;Lire Exemple aube-002&lt;/a&gt;&lt;/p&gt;</description>
+      <media:content url="https://eigrutel.github.io/comic-feed-test/demo/aube/series/les-lucioles/channels/strip/media/aube-002.webp" type="image/webp" medium="image" width="2167" height="557" />
+      <media:thumbnail url="https://eigrutel.github.io/comic-feed-test/demo/aube/series/les-lucioles/channels/strip/thumbnails/aube-002.webp" width="1039" height="267" />
+    </item>
+    <item>
       <title>Exemple aube-001</title>
-      <link>https://aube.example/bd/series/les-lucioles/channels/strip/read/aube-001.html</link>
+      <link>https://eigrutel.github.io/comic-feed-test/demo/aube/series/les-lucioles/channels/strip/read/aube-001.html</link>
+      <guid isPermaLink="false">itm_fc1a8cd0-d554-4d4e-87ae-e635cb81396c</guid>
       <pubDate>Thu, 01 Oct 2026 08:00:00 GMT</pubDate>
-      <description>Exemple de publication Comic Feed. </description>
+      <description>&lt;p&gt;&lt;a href=&quot;https://eigrutel.github.io/comic-feed-test/demo/aube/series/les-lucioles/channels/strip/read/aube-001.html&quot;&gt;&lt;img src=&quot;https://eigrutel.github.io/comic-feed-test/demo/aube/series/les-lucioles/channels/strip/media/aube-001.webp&quot; width=&quot;2109&quot; height=&quot;672&quot; alt=&quot;Exemple aube-001&quot;&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://eigrutel.github.io/comic-feed-test/demo/aube/series/les-lucioles/channels/strip/read/aube-001.html&quot;&gt;Lire Exemple aube-001&lt;/a&gt;&lt;/p&gt;</description>
+      <media:content url="https://eigrutel.github.io/comic-feed-test/demo/aube/series/les-lucioles/channels/strip/media/aube-001.webp" type="image/webp" medium="image" width="2109" height="672" />
+      <media:thumbnail url="https://eigrutel.github.io/comic-feed-test/demo/aube/series/les-lucioles/channels/strip/thumbnails/aube-001.webp" width="929" height="295" />
     </item>
     <item>
-      <guid isPermaLink="false">itm_c0fb5faf-a248-4b02-9d78-7effd38c4418</guid>
       <title>Exemple aube-corrige</title>
-      <link>https://aube.example/bd/series/les-lucioles/channels/strip/read/aube-corrige.html</link>
+      <link>https://eigrutel.github.io/comic-feed-test/demo/aube/series/les-lucioles/channels/strip/read/aube-corrige.html</link>
+      <guid isPermaLink="false">itm_c0fb5faf-a248-4b02-9d78-7effd38c4418</guid>
       <pubDate>Thu, 01 Oct 2026 08:00:00 GMT</pubDate>
-      <description>Exemple de publication Comic Feed. Correction du lettrage, sans changement de Publication.</description>
+      <description>&lt;p&gt;&lt;a href=&quot;https://eigrutel.github.io/comic-feed-test/demo/aube/series/les-lucioles/channels/strip/read/aube-corrige.html&quot;&gt;&lt;img src=&quot;https://eigrutel.github.io/comic-feed-test/demo/aube/series/les-lucioles/channels/strip/media/aube-corrige-01.jpg&quot; width=&quot;96&quot; height=&quot;32&quot; alt=&quot;Exemple aube-corrige&quot;&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://eigrutel.github.io/comic-feed-test/demo/aube/series/les-lucioles/channels/strip/read/aube-corrige.html&quot;&gt;Lire Exemple aube-corrige&lt;/a&gt;&lt;/p&gt;</description>
+      <media:content url="https://eigrutel.github.io/comic-feed-test/demo/aube/series/les-lucioles/channels/strip/media/aube-corrige-01.jpg" type="image/jpeg" medium="image" width="96" height="32" />
+      <media:thumbnail url="https://eigrutel.github.io/comic-feed-test/demo/aube/series/les-lucioles/channels/strip/thumbnails/aube-corrige.png" width="48" height="48" />
     </item>
-  </channel>
-</rss>
+</channel></rss>

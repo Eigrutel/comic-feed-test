@@ -1,17 +1,16 @@
-<?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
-  <channel>
-    <title>Brume haute / episodes-fr</title>
-    <link>https://brume.example/series/brume-haute/channels/episodes-fr/index.html</link>
-    <description>Série fictive destinée à vérifier les échanges Comic Feed.</description>
-    <language>fr</language>
-    <lastBuildDate>Mon, 05 Oct 2026 10:00:00 GMT</lastBuildDate>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel>
+  <title>Brume haute — episodes-fr</title>
+  <link>https://eigrutel.github.io/comic-feed-test/demo/brume/series/brume-haute/channels/episodes-fr/index.html</link>
+  <description>Publications publiques de Brume haute — episodes-fr</description>
+  <lastBuildDate>Tue, 06 Oct 2026 15:42:29 GMT</lastBuildDate>
     <item>
-      <guid isPermaLink="false">itm_20f90569-d7ad-4df7-8f2d-f15c1b75a303</guid>
       <title>Exemple brume-long</title>
-      <link>https://brume.example/series/brume-haute/channels/webtoon/read/brume-long.html</link>
+      <link>https://eigrutel.github.io/comic-feed-test/demo/brume/series/brume-haute/channels/webtoon/read/brume-long.html</link>
+      <guid isPermaLink="false">itm_20f90569-d7ad-4df7-8f2d-f15c1b75a303</guid>
       <pubDate>Thu, 01 Oct 2026 08:00:00 GMT</pubDate>
-      <description>Exemple de publication Comic Feed. </description>
+      <description>&lt;p&gt;&lt;a href=&quot;https://eigrutel.github.io/comic-feed-test/demo/brume/series/brume-haute/channels/webtoon/read/brume-long.html&quot;&gt;&lt;img src=&quot;https://eigrutel.github.io/comic-feed-test/demo/brume/series/brume-haute/channels/webtoon/thumbnails/brume-long-preview.png&quot; width=&quot;64&quot; height=&quot;85&quot; alt=&quot;Exemple brume-long&quot;&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://eigrutel.github.io/comic-feed-test/demo/brume/series/brume-haute/channels/webtoon/read/brume-long.html&quot;&gt;Lire Exemple brume-long&lt;/a&gt;&lt;/p&gt;</description>
+      <media:content url="https://eigrutel.github.io/comic-feed-test/demo/brume/series/brume-haute/channels/webtoon/thumbnails/brume-long-preview.png" type="image/png" medium="image" width="64" height="85" />
+      <media:thumbnail url="https://eigrutel.github.io/comic-feed-test/demo/brume/series/brume-haute/channels/webtoon/thumbnails/brume-long-preview.png" width="64" height="85" />
     </item>
-  </channel>
-</rss>
+</channel></rss>

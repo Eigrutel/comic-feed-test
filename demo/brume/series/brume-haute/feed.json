@@ -26,14 +26,14 @@
     "id": "pub_16fb77eb-272d-4781-9bf7-e7e65c9bb2b1",
     "feed": "https://brume.example/feed.json"
   },
-  "updated_at": "2026-10-05T10:00:00Z",
+  "updated_at": "2026-10-06T15:42:29Z",
   "channels": [
     {
       "id": "chn_33e92f24-d888-4ae8-99d2-bb57fe5b7dba",
       "type": "webtoon",
       "title": "episodes-fr",
       "language": "fr",
-      "updated_at": "2026-10-05T10:00:00Z",
+      "updated_at": "2026-10-06T15:42:29Z",
       "access": {
         "mode": "public"
       },
@@ -42,9 +42,9 @@
           "id": "itm_20f90569-d7ad-4df7-8f2d-f15c1b75a303",
           "status": "published",
           "publish_at": "2026-10-01T08:00:00.125Z",
-          "updated_at": "2026-10-05T10:00:00Z",
+          "updated_at": "2026-10-06T15:42:29Z",
           "title": "Exemple brume-long",
-          "thumbnail": "channels/webtoon/thumbnails/brume-long.png",
+          "thumbnail": "channels/webtoon/thumbnails/brume-long-preview.png",
           "url": "channels/webtoon/read/brume-long.html",
           "resources": [
             {
@@ -62,7 +62,7 @@
       "type": "webtoon",
       "title": "episodes-en",
       "language": "en",
-      "updated_at": "2026-10-05T10:00:00Z",
+      "updated_at": "2026-10-06T15:42:29Z",
       "access": {
         "mode": "public"
       },
@@ -71,9 +71,9 @@
           "id": "itm_6d11367f-1805-4e08-9c44-231142ac3436",
           "status": "published",
           "publish_at": "2026-10-01T08:00:00Z",
-          "updated_at": "2026-10-05T10:00:00Z",
+          "updated_at": "2026-10-06T15:42:29Z",
           "title": "Exemple brume-segments",
-          "thumbnail": "channels/webtoon/thumbnails/brume-segments.png",
+          "thumbnail": "channels/webtoon/thumbnails/brume-segments-preview.png",
           "url": "channels/webtoon/read/brume-segments.html",
           "resources": [
             {

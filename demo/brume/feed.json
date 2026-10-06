@@ -12,13 +12,13 @@
       "banner": "images/banner.webp"
     }
   },
-  "updated_at": "2026-10-05T10:00:00Z",
+  "updated_at": "2026-10-06T15:42:29Z",
   "series": [
     {
       "id": "ser_544d6c7e-9059-4b2e-a663-74ff7c210030",
       "title": "Brume haute",
       "feed": "https://brume.example/series/brume-haute/feed.json",
-      "updated_at": "2026-10-05T10:00:00Z",
+      "updated_at": "2026-10-06T15:42:29Z",
       "thumbnail": "series/brume-haute/images/cover.png"
     }
   ]

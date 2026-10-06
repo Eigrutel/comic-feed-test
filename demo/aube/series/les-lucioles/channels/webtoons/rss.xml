@@ -1,24 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
-  <channel>
-    <title>Les Lucioles / webtoons</title>
-    <link>https://aube.example/bd/series/les-lucioles/channels/webtoons/index.html</link>
-    <description>Série fictive destinée à vérifier les échanges Comic Feed.</description>
-    <language>fr</language>
-    <lastBuildDate>Mon, 05 Oct 2026 10:00:00 GMT</lastBuildDate>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel>
+  <title>Les Lucioles — webtoons</title>
+  <link>https://eigrutel.github.io/comic-feed-test/demo/aube/series/les-lucioles/channels/webtoons/index.html</link>
+  <description>Publications publiques de Les Lucioles — webtoons</description>
+  <lastBuildDate>Tue, 06 Oct 2026 15:42:29 GMT</lastBuildDate>
     <item>
-      <guid isPermaLink="false">itm_515cd34e-884e-44d9-b2e2-08901073f43c</guid>
       <title>Exemple aube-episode-01</title>
-      <link>https://aube.example/bd/series/les-lucioles/channels/webtoon/read/aube-episode-01.html</link>
+      <link>https://eigrutel.github.io/comic-feed-test/demo/aube/series/les-lucioles/channels/webtoon/read/aube-episode-01.html</link>
+      <guid isPermaLink="false">itm_515cd34e-884e-44d9-b2e2-08901073f43c</guid>
       <pubDate>Thu, 01 Oct 2026 08:00:00 GMT</pubDate>
-      <description>Exemple de publication Comic Feed. </description>
+      <description>&lt;p&gt;&lt;a href=&quot;https://eigrutel.github.io/comic-feed-test/demo/aube/series/les-lucioles/channels/webtoon/read/aube-episode-01.html&quot;&gt;&lt;img src=&quot;https://eigrutel.github.io/comic-feed-test/demo/aube/series/les-lucioles/channels/webtoon/thumbnails/aube-episode-01-preview.png&quot; width=&quot;640&quot; height=&quot;854&quot; alt=&quot;Exemple aube-episode-01&quot;&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://eigrutel.github.io/comic-feed-test/demo/aube/series/les-lucioles/channels/webtoon/read/aube-episode-01.html&quot;&gt;Lire Exemple aube-episode-01&lt;/a&gt;&lt;/p&gt;</description>
+      <media:content url="https://eigrutel.github.io/comic-feed-test/demo/aube/series/les-lucioles/channels/webtoon/thumbnails/aube-episode-01-preview.png" type="image/png" medium="image" width="640" height="854" />
+      <media:thumbnail url="https://eigrutel.github.io/comic-feed-test/demo/aube/series/les-lucioles/channels/webtoon/thumbnails/aube-episode-01-preview.png" width="640" height="854" />
     </item>
     <item>
-      <guid isPermaLink="false">itm_4909d52b-5a12-4d8b-8205-5e4fa14126b6</guid>
       <title>Exemple aube-episode-02</title>
-      <link>https://aube.example/bd/series/les-lucioles/channels/webtoon/read/aube-episode-02.html</link>
+      <link>https://eigrutel.github.io/comic-feed-test/demo/aube/series/les-lucioles/channels/webtoon/read/aube-episode-02.html</link>
+      <guid isPermaLink="false">itm_4909d52b-5a12-4d8b-8205-5e4fa14126b6</guid>
       <pubDate>Thu, 01 Oct 2026 08:00:00 GMT</pubDate>
-      <description>Exemple de publication Comic Feed. </description>
+      <description>&lt;p&gt;&lt;a href=&quot;https://eigrutel.github.io/comic-feed-test/demo/aube/series/les-lucioles/channels/webtoon/read/aube-episode-02.html&quot;&gt;&lt;img src=&quot;https://eigrutel.github.io/comic-feed-test/demo/aube/series/les-lucioles/channels/webtoon/thumbnails/aube-episode-02-preview.png&quot; width=&quot;640&quot; height=&quot;597&quot; alt=&quot;Exemple aube-episode-02&quot;&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://eigrutel.github.io/comic-feed-test/demo/aube/series/les-lucioles/channels/webtoon/read/aube-episode-02.html&quot;&gt;Lire Exemple aube-episode-02&lt;/a&gt;&lt;/p&gt;</description>
+      <media:content url="https://eigrutel.github.io/comic-feed-test/demo/aube/series/les-lucioles/channels/webtoon/thumbnails/aube-episode-02-preview.png" type="image/png" medium="image" width="640" height="597" />
+      <media:thumbnail url="https://eigrutel.github.io/comic-feed-test/demo/aube/series/les-lucioles/channels/webtoon/thumbnails/aube-episode-02-preview.png" width="640" height="597" />
     </item>
-  </channel>
-</rss>
+</channel></rss>

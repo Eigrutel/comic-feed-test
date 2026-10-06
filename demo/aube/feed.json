@@ -13,13 +13,13 @@
     },
     "type": "atelier"
   },
-  "updated_at": "2026-10-05T10:00:00Z",
+  "updated_at": "2026-10-06T15:42:29Z",
   "series": [
     {
       "id": "ser_7070088a-b0a4-4e8e-8885-91fce1f06511",
       "title": "Les Lucioles",
       "feed": "series/les-lucioles/feed.json",
-      "updated_at": "2026-10-05T10:00:00Z",
+      "updated_at": "2026-10-06T15:42:29Z",
       "thumbnail": "series/les-lucioles/images/cover.png"
     },
     {

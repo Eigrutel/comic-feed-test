@@ -14,7 +14,7 @@
     "id": "pub_523c53fd-dfad-4f21-9694-fc36cfcdd775",
     "feed": "../../feed.json"
   },
-  "updated_at": "2026-10-07T10:00:00Z",
+  "updated_at": "2026-10-07T13:36:00Z",
   "channels": [
     {
       "id": "chn_32e22a89-72c9-40e6-b130-2c99091f7870",
@@ -50,7 +50,7 @@
       "type": "webtoon",
       "title": "Webtoons",
       "language": "fr",
-      "updated_at": "2026-10-07T10:00:00Z",
+      "updated_at": "2026-10-07T13:36:00Z",
       "access": {
         "mode": "public"
       },
@@ -60,13 +60,28 @@
           "status": "published",
           "publish_at": "2026-10-06T18:00:00+02:00",
           "updated_at": "2026-10-07T10:00:00Z",
-          "title": "TEKILA — Webtoon",
+          "title": "TEKILA — Claim 54",
           "thumbnail": "channels/webtoon/thumbnails/tekila-claim54-001.jpg",
           "url": "channels/webtoon/read/tekila-claim54-001.html",
           "resources": [
             {
               "type": "image",
-              "src": "channels/webtoon/media/tekila-claim54-001.png"
+              "src": "channels/webtoon/media/tekila-claim54-001.jpg"
+            }
+          ]
+        },
+        {
+          "id": "itm_0086380e-1c74-4915-a38d-c25c79393d28",
+          "status": "published",
+          "publish_at": "2026-10-07T09:00:00+02:00",
+          "updated_at": "2026-10-07T13:36:00Z",
+          "title": "TEKILA — La diligence",
+          "thumbnail": "channels/webtoon/thumbnails/tekila-webtoon2-diligence.jpg",
+          "url": "channels/webtoon/read/tekila-webtoon2-diligence.html",
+          "resources": [
+            {
+              "type": "image",
+              "src": "channels/webtoon/media/tekila-webtoon2-diligence.jpg"
             }
           ]
         }

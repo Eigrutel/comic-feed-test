@@ -1,0 +1,78 @@
+{
+  "protocol": "comic-feed",
+  "version": "1.0",
+  "series": {
+    "id": "ser_25b2b1c0-d30a-462c-8a2a-409ae8667c52",
+    "title": "TEKILA",
+    "language": "fr",
+    "images": {
+      "cover": "images/cover.jpg",
+      "banner": "images/banner.jpg"
+    }
+  },
+  "publisher": {
+    "id": "pub_523c53fd-dfad-4f21-9694-fc36cfcdd775",
+    "feed": "../../feed.json"
+  },
+  "updated_at": "2026-10-07T10:00:00Z",
+  "channels": [
+    {
+      "id": "chn_32e22a89-72c9-40e6-b130-2c99091f7870",
+      "type": "strip",
+      "title": "Strips",
+      "language": "fr",
+      "updated_at": "2026-10-07T10:00:00Z",
+      "access": {
+        "mode": "public"
+      },
+      "publications": [
+        {
+          "id": "itm_8bcc1b77-a4c4-4bc9-8948-b970ecc9823a",
+          "status": "published",
+          "publish_at": "2026-10-03T10:00:00+02:00",
+          "updated_at": "2026-10-07T10:00:00Z",
+          "title": "TEKILA — Strip",
+          "thumbnail": "channels/strip/thumbnails/tekilastrip.jpg",
+          "url": "channels/strip/read/tekilastrip.html",
+          "resources": [
+            {
+              "type": "image",
+              "src": "channels/strip/media/tekilastrip.jpg"
+            }
+          ]
+        }
+      ],
+      "url": "channels/strips/index.html",
+      "rss": "channels/strips/rss.xml"
+    },
+    {
+      "id": "chn_51376af5-2ebc-4ff1-8792-6cb8cc5ad3c8",
+      "type": "webtoon",
+      "title": "Webtoons",
+      "language": "fr",
+      "updated_at": "2026-10-07T10:00:00Z",
+      "access": {
+        "mode": "public"
+      },
+      "publications": [
+        {
+          "id": "itm_68c656e9-6bfc-4408-b20b-168d7206dc62",
+          "status": "published",
+          "publish_at": "2026-10-06T18:00:00+02:00",
+          "updated_at": "2026-10-07T10:00:00Z",
+          "title": "TEKILA — Webtoon",
+          "thumbnail": "channels/webtoon/thumbnails/tekila-claim54-001.jpg",
+          "url": "channels/webtoon/read/tekila-claim54-001.html",
+          "resources": [
+            {
+              "type": "image",
+              "src": "channels/webtoon/media/tekila-claim54-001.png"
+            }
+          ]
+        }
+      ],
+      "url": "channels/webtoons/index.html",
+      "rss": "channels/webtoons/rss.xml"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "protocol": "comic-feed",
+  "version": "1.0",
+  "publisher": {
+    "id": "pub_523c53fd-dfad-4f21-9694-fc36cfcdd775",
+    "name": "Eigrutel",
+    "language": "fr",
+    "url": "index.html"
+  },
+  "updated_at": "2026-10-07T10:00:00Z",
+  "series": [
+    {
+      "id": "ser_f6c55131-19a8-460e-b6b3-f60144b344dc",
+      "title": "BRO",
+      "feed": "series/bro/feed.json",
+      "updated_at": "2026-10-07T10:00:00Z",
+      "thumbnail": "series/bro/images/cover.jpg"
+    },
+    {
+      "id": "ser_618a5ab3-f551-4753-8e05-ecd482cfcc57",
+      "title": "SPOON",
+      "feed": "series/spoon/feed.json",
+      "updated_at": "2026-10-07T10:00:00Z",
+      "thumbnail": "series/spoon/images/cover.jpg"
+    },
+    {
+      "id": "ser_25b2b1c0-d30a-462c-8a2a-409ae8667c52",
+      "title": "TEKILA",
+      "feed": "series/tekila/feed.json",
+      "updated_at": "2026-10-07T10:00:00Z",
+      "thumbnail": "series/tekila/images/cover.jpg"
+    }
+  ],
+  "generated_by": {
+    "name": "Jeu de démonstration Eigrutel",
+    "version": "1.0"
+  }
+}

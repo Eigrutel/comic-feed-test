@@ -1,0 +1,64 @@
+{
+  "protocol": "comic-feed",
+  "version": "1.0",
+  "series": {
+    "id": "ser_f6c55131-19a8-460e-b6b3-f60144b344dc",
+    "title": "BRO",
+    "language": "fr",
+    "images": {
+      "cover": "images/cover.jpg",
+      "banner": "images/banner.jpg"
+    }
+  },
+  "publisher": {
+    "id": "pub_523c53fd-dfad-4f21-9694-fc36cfcdd775",
+    "feed": "../../feed.json"
+  },
+  "updated_at": "2026-10-07T10:00:00Z",
+  "channels": [
+    {
+      "id": "chn_f4e0ffe0-3e0b-478f-92d1-9647fe79eda2",
+      "type": "strip",
+      "title": "Strips",
+      "language": "fr",
+      "updated_at": "2026-10-07T10:00:00Z",
+      "access": {
+        "mode": "public"
+      },
+      "publications": [
+        {
+          "id": "itm_acbb02c7-c49f-4f98-82e7-f678ff7ac6f2",
+          "status": "published",
+          "publish_at": "2026-10-01T10:00:00+02:00",
+          "updated_at": "2026-10-07T10:00:00Z",
+          "title": "BRO 009",
+          "thumbnail": "channels/strip/thumbnails/bro009.jpg",
+          "url": "channels/strip/read/bro009.html",
+          "resources": [
+            {
+              "type": "image",
+              "src": "channels/strip/media/bro009.jpg"
+            }
+          ]
+        },
+        {
+          "id": "itm_39082388-a452-4546-9bc1-31f3e19de001",
+          "status": "published",
+          "publish_at": "2026-10-06T10:00:00+02:00",
+          "updated_at": "2026-10-07T10:00:00Z",
+          "title": "BRO 010",
+          "thumbnail": "channels/strip/thumbnails/bro010.jpg",
+          "url": "channels/strip/read/bro010.html",
+          "resources": [
+            {
+              "type": "image",
+              "src": "channels/strip/media/bro010.jpg"
+            }
+          ]
+        }
+      ],
+      "url": "channels/strips/index.html",
+      "rss": "channels/strips/rss.xml"
+    }
+  ]
+}

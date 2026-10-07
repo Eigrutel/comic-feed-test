@@ -1,0 +1,108 @@
+{
+  "protocol": "comic-feed",
+  "version": "1.0",
+  "series": {
+    "id": "ser_618a5ab3-f551-4753-8e05-ecd482cfcc57",
+    "title": "SPOON",
+    "language": "fr",
+    "images": {
+      "cover": "images/cover.jpg",
+      "banner": "images/banner.jpg"
+    }
+  },
+  "publisher": {
+    "id": "pub_523c53fd-dfad-4f21-9694-fc36cfcdd775",
+    "feed": "../../feed.json"
+  },
+  "updated_at": "2026-10-07T10:00:00Z",
+  "channels": [
+    {
+      "id": "chn_f313b5d2-d35b-4af6-a69b-8a93b4f8de84",
+      "type": "strip",
+      "title": "Strips",
+      "language": "fr",
+      "updated_at": "2026-10-07T10:00:00Z",
+      "access": {
+        "mode": "public"
+      },
+      "publications": [
+        {
+          "id": "itm_09e53780-7790-4807-a50d-af1f41fcc03b",
+          "status": "published",
+          "publish_at": "2026-10-02T10:00:00+02:00",
+          "updated_at": "2026-10-07T10:00:00Z",
+          "title": "SPOON 01",
+          "thumbnail": "channels/strip/thumbnails/spoonstrips.jpg",
+          "url": "channels/strip/read/spoonstrips.html",
+          "resources": [
+            {
+              "type": "image",
+              "src": "channels/strip/media/spoonstrips.jpg"
+            }
+          ]
+        },
+        {
+          "id": "itm_76bd641f-d44c-4922-ab30-d56276a962c0",
+          "status": "published",
+          "publish_at": "2026-10-04T10:00:00+02:00",
+          "updated_at": "2026-10-07T10:00:00Z",
+          "title": "SPOON 02",
+          "thumbnail": "channels/strip/thumbnails/spoonstrips2.jpg",
+          "url": "channels/strip/read/spoonstrips2.html",
+          "resources": [
+            {
+              "type": "image",
+              "src": "channels/strip/media/spoonstrips2.jpg"
+            }
+          ]
+        },
+        {
+          "id": "itm_36868970-40f2-478f-85ac-99912378c349",
+          "status": "published",
+          "publish_at": "2026-10-07T08:00:00+02:00",
+          "updated_at": "2026-10-07T10:00:00Z",
+          "title": "SPOON 03",
+          "thumbnail": "channels/strip/thumbnails/spoonstrips3.jpg",
+          "url": "channels/strip/read/spoonstrips3.html",
+          "resources": [
+            {
+              "type": "image",
+              "src": "channels/strip/media/spoonstrips3.jpg"
+            }
+          ]
+        }
+      ],
+      "url": "channels/strips/index.html",
+      "rss": "channels/strips/rss.xml"
+    },
+    {
+      "id": "chn_82e88f52-284d-4a96-be4d-26321e7fc5f0",
+      "type": "webtoon",
+      "title": "Webtoons",
+      "language": "fr",
+      "updated_at": "2026-10-07T10:00:00Z",
+      "access": {
+        "mode": "public"
+      },
+      "publications": [
+        {
+          "id": "itm_1bad1d67-f150-466e-9ee7-58b680a7f30b",
+          "status": "published",
+          "publish_at": "2026-10-05T10:00:00+02:00",
+          "updated_at": "2026-10-07T10:00:00Z",
+          "title": "SPOON — Webtoon",
+          "thumbnail": "channels/webtoon/thumbnails/webtoon-bandeau-spoon.jpg",
+          "url": "channels/webtoon/read/webtoon-bandeau-spoon.html",
+          "resources": [
+            {
+              "type": "image",
+              "src": "channels/webtoon/media/webtoon-bandeau-spoon.jpg"
+            }
+          ]
+        }
+      ],
+      "url": "channels/webtoons/index.html",
+      "rss": "channels/webtoons/rss.xml"
+    }
+  ]
+}

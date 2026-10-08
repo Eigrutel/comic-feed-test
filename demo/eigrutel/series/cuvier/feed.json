@@ -1,0 +1,108 @@
+{
+  "protocol": "comic-feed",
+  "version": "1.1",
+  "series": {
+    "id": "ser_72ee7cf2-3a61-463a-9530-72bf022f05fb",
+    "title": "CUVIER",
+    "language": "fr",
+    "images": {
+      "cover": "channels/pages/thumbnails/chapitre-01.jpg"
+    }
+  },
+  "publisher": {
+    "id": "pub_523c53fd-dfad-4f21-9694-fc36cfcdd775",
+    "feed": "../../feed.json"
+  },
+  "updated_at": "2026-10-08T18:29:30Z",
+  "channels": [
+    {
+      "id": "chn_2fceb2a8-33e9-44fe-962d-33ba38a7d84b",
+      "type": "pages",
+      "title": "Pages",
+      "language": "fr",
+      "reading_direction": "ltr",
+      "updated_at": "2026-10-08T18:29:30Z",
+      "access": {
+        "mode": "public"
+      },
+      "publications": [
+        {
+          "id": "itm_5924de24-0159-4d49-ad76-a1d1fd04cbbe",
+          "status": "published",
+          "publish_at": "2026-10-08T10:30:00Z",
+          "updated_at": "2026-10-08T18:29:30Z",
+          "title": "Chapitre 1",
+          "thumbnail": "channels/pages/thumbnails/chapitre-01.jpg",
+          "url": "channels/pages/read/chapitre-01.html",
+          "resources": [
+            {
+              "type": "image",
+              "src": "channels/pages/media/CUVIER-chapitre01-pages01.jpg"
+            },
+            {
+              "type": "image",
+              "src": "channels/pages/media/CUVIER-chapitre01-pages02.jpg"
+            },
+            {
+              "type": "image",
+              "src": "channels/pages/media/CUVIER-chapitre01-pages03.jpg"
+            },
+            {
+              "type": "image",
+              "src": "channels/pages/media/CUVIER-chapitre01-pages04.jpg"
+            },
+            {
+              "type": "image",
+              "src": "channels/pages/media/CUVIER-chapitre01-pages05.jpg"
+            },
+            {
+              "type": "image",
+              "src": "channels/pages/media/CUVIER-chapitre01-pages06.jpg"
+            },
+            {
+              "type": "image",
+              "src": "channels/pages/media/CUVIER-chapitre01-pages07.jpg"
+            },
+            {
+              "type": "image",
+              "src": "channels/pages/media/CUVIER-chapitre01-pages08.jpg"
+            }
+          ],
+          "extensions": {
+            "org.eigrutel.demo": {
+              "publish_at_is_demo": true,
+              "note": "Dates de publication de démonstration, sans valeur de datation historique des œuvres."
+            }
+          }
+        },
+        {
+          "id": "itm_27230947-f442-41a4-885e-166f82076b7a",
+          "status": "published",
+          "publish_at": "2026-10-08T10:40:00Z",
+          "updated_at": "2026-10-08T18:29:30Z",
+          "title": "Chapitre 2",
+          "thumbnail": "channels/pages/thumbnails/chapitre-02.jpg",
+          "url": "channels/pages/read/chapitre-02.html",
+          "resources": [
+            {
+              "type": "image",
+              "src": "channels/pages/media/CUVIER-chapitre02-pages01.jpg"
+            },
+            {
+              "type": "image",
+              "src": "channels/pages/media/CUVIER-chapitre02-pages02.jpg"
+            }
+          ],
+          "extensions": {
+            "org.eigrutel.demo": {
+              "publish_at_is_demo": true,
+              "note": "Dates de publication de démonstration, sans valeur de datation historique des œuvres."
+            }
+          }
+        }
+      ],
+      "url": "channels/pages/index.html",
+      "rss": "channels/pages/feed.rss"
+    }
+  ]
+}

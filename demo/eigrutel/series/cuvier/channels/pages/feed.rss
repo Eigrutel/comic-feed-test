@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0">
+  <channel>
+    <title>CUVIER — Pages</title>
+    <link>https://eigrutel.github.io/comic-feed-test/demo/eigrutel/series/cuvier/channels/pages/index.html</link>
+    <description>Canal public Pages de CUVIER. Dates de publication de démonstration, sans valeur de datation historique des œuvres.</description>
+    <language>fr</language>
+    <lastBuildDate>Thu, 08 Oct 2026 18:29:30 GMT</lastBuildDate>
+    <item>
+      <title>Chapitre 2</title>
+      <link>https://eigrutel.github.io/comic-feed-test/demo/eigrutel/series/cuvier/channels/pages/read/chapitre-02.html</link>
+      <guid isPermaLink="false">itm_27230947-f442-41a4-885e-166f82076b7a</guid>
+      <pubDate>Thu, 08 Oct 2026 10:40:00 GMT</pubDate>
+      <description>&lt;p&gt;Chapitre 2 — 2 pages, lecture de gauche à droite.&lt;/p&gt;&lt;p&gt;&lt;a href="https://eigrutel.github.io/comic-feed-test/demo/eigrutel/series/cuvier/channels/pages/read/chapitre-02.html"&gt;&lt;img src="https://eigrutel.github.io/comic-feed-test/demo/eigrutel/series/cuvier/channels/pages/thumbnails/chapitre-02.jpg" alt="Chapitre 2"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://eigrutel.github.io/comic-feed-test/demo/eigrutel/series/cuvier/channels/pages/read/chapitre-02.html"&gt;Accéder à la publication&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Dates de publication de démonstration, sans valeur de datation historique des œuvres.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Chapitre 1</title>
+      <link>https://eigrutel.github.io/comic-feed-test/demo/eigrutel/series/cuvier/channels/pages/read/chapitre-01.html</link>
+      <guid isPermaLink="false">itm_5924de24-0159-4d49-ad76-a1d1fd04cbbe</guid>
+      <pubDate>Thu, 08 Oct 2026 10:30:00 GMT</pubDate>
+      <description>&lt;p&gt;Chapitre 1 — 8 pages, lecture de gauche à droite.&lt;/p&gt;&lt;p&gt;&lt;a href="https://eigrutel.github.io/comic-feed-test/demo/eigrutel/series/cuvier/channels/pages/read/chapitre-01.html"&gt;&lt;img src="https://eigrutel.github.io/comic-feed-test/demo/eigrutel/series/cuvier/channels/pages/thumbnails/chapitre-01.jpg" alt="Chapitre 1"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://eigrutel.github.io/comic-feed-test/demo/eigrutel/series/cuvier/channels/pages/read/chapitre-01.html"&gt;Accéder à la publication&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Dates de publication de démonstration, sans valeur de datation historique des œuvres.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,6 +1,6 @@
 {
   "protocol": "comic-feed",
-  "version": "1.0",
+  "version": "1.1",
   "series": {
     "id": "ser_618a5ab3-f551-4753-8e05-ecd482cfcc57",
     "title": "SPOON",
@@ -14,7 +14,7 @@
     "id": "pub_523c53fd-dfad-4f21-9694-fc36cfcdd775",
     "feed": "../../feed.json"
   },
-  "updated_at": "2026-10-07T13:36:00Z",
+  "updated_at": "2026-10-08T18:29:30Z",
   "channels": [
     {
       "id": "chn_f313b5d2-d35b-4af6-a69b-8a93b4f8de84",
@@ -103,6 +103,80 @@
       ],
       "url": "channels/webtoons/index.html",
       "rss": "channels/webtoons/rss.xml"
+    },
+    {
+      "id": "chn_f9001214-fb04-419a-82da-7ad230ad7f7b",
+      "type": "square",
+      "title": "Square",
+      "language": "fr",
+      "updated_at": "2026-10-08T18:29:30Z",
+      "access": {
+        "mode": "public"
+      },
+      "publications": [
+        {
+          "id": "itm_c88542c7-f145-4990-90a5-ab7a9875c9ee",
+          "status": "published",
+          "publish_at": "2026-10-08T10:00:00Z",
+          "updated_at": "2026-10-08T18:29:30Z",
+          "thumbnail": "channels/square/thumbnails/square-spoon-01.jpg",
+          "url": "channels/square/read/square-spoon-01.html",
+          "resources": [
+            {
+              "type": "image",
+              "src": "channels/square/media/square-spoon-01.jpg"
+            }
+          ],
+          "extensions": {
+            "org.eigrutel.demo": {
+              "publish_at_is_demo": true,
+              "note": "Dates de publication de démonstration, sans valeur de datation historique des œuvres."
+            }
+          }
+        },
+        {
+          "id": "itm_82cc2813-e55c-4228-baad-64119457c2fb",
+          "status": "published",
+          "publish_at": "2026-10-08T10:10:00Z",
+          "updated_at": "2026-10-08T18:29:30Z",
+          "thumbnail": "channels/square/thumbnails/square-spoon-02.jpg",
+          "url": "channels/square/read/square-spoon-02.html",
+          "resources": [
+            {
+              "type": "image",
+              "src": "channels/square/media/square-spoon-02.jpg"
+            }
+          ],
+          "extensions": {
+            "org.eigrutel.demo": {
+              "publish_at_is_demo": true,
+              "note": "Dates de publication de démonstration, sans valeur de datation historique des œuvres."
+            }
+          }
+        },
+        {
+          "id": "itm_91673d9e-b73f-434c-aff4-eca2c32a6248",
+          "status": "published",
+          "publish_at": "2026-10-08T10:20:00Z",
+          "updated_at": "2026-10-08T18:29:30Z",
+          "thumbnail": "channels/square/thumbnails/square-spoon-03.jpg",
+          "url": "channels/square/read/square-spoon-03.html",
+          "resources": [
+            {
+              "type": "image",
+              "src": "channels/square/media/square-spoon-03.jpg"
+            }
+          ],
+          "extensions": {
+            "org.eigrutel.demo": {
+              "publish_at_is_demo": true,
+              "note": "Dates de publication de démonstration, sans valeur de datation historique des œuvres."
+            }
+          }
+        }
+      ],
+      "url": "channels/square/index.html",
+      "rss": "channels/square/feed.rss"
     }
   ]
 }
